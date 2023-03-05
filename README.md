@@ -9,4 +9,4 @@
 4. Визуализировала логику выбора скорости движения на такси в виде блок-схемы.
 5. Составила 
 
-![Scheme](https://drive.google.com/file/d/1RAPluiG_c7YDGWQo_pdgM85_vvoA-vSy/view?usp=sharing)
+![Scheme](https://github.com/petrova-andm/Yandex.Routes/blob/main/scheme/Блок-схема%20Яндекс.Маршруты.jpg)
