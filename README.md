@@ -2,6 +2,8 @@
 
 <b>Яндекс.Маршруты</b> - сервис, который строит маршруты для транспорта разных видов, рассчитывает время и стоимость поездки.
 
+![Header](https://github.com/petrova-andm/Yandex.Routes/blob/main/images/marshruty_1_1.png)
+
 В ходе работы над сервисом Яндекс.Маршруты я: 
 1. Проанализировала требования к сервису и составила [mindmap](https://miro.com/app/board/uXjVPfRQgNw=/?share_link_id=299495789437).
 2. Выделила [классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/135Go-uVv1KqqZARaXZLhw9A5GbwQ-U6w7HCanum6ksI/edit#gid=2010888140) для полей ввода «Время начала поездки», «Откуда», «Куда».
