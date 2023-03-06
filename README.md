@@ -15,5 +15,5 @@
 8. Подготовила тест-кейсы
 на логику работы [кнопки «Забронировать»](https://docs.google.com/spreadsheets/d/1H_wsYrU9FLc-3CmwkP-PVvjehrWP6hlB2lt_mlCsbsM/edit#gid=1567345705) и на логику [функциональности бронирования](https://docs.google.com/spreadsheets/d/1H_wsYrU9FLc-3CmwkP-PVvjehrWP6hlB2lt_mlCsbsM/edit#gid=94813143).
 9. С помощью [Charles](https://drive.google.com/drive/folders/11CF7UAe9ejkp-D9WGI1Ovi0lbT_2qE1K) добавила новый вид транспорта "Аэротакси" в интерфейс сервиса, чтобы протестировать реализацю на фронтенде, не дожидаясь бэкенда.
-10. Протестировала приложение и заела баг-репорты. [По ссылке]() Вы можете найти примеры составленных баг-репортов.
+10. Протестировала приложение и заела баг-репорты. [По ссылке](https://github.com/petrova-andm/Yandex.Routes/tree/main/bug-reports) Вы можете найти примеры составленных баг-репортов.
 
